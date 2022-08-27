@@ -14,7 +14,7 @@ class ModPad:
                 json.dump({
                     "modes": [
                         {
-                            "name": "Media1",
+                            "name": "Media",
                             "keys": [
                                 None,
                                 {
