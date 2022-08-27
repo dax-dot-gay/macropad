@@ -1,0 +1,6 @@
+Adafruit CircuitPython 7.3.2 on 2022-07-20; Adafruit Macropad RP2040 with rp2040
+Board ID:adafruit_macropad_rp2040
+boot.py output:
+Traceback (most recent call last):
+  File "boot.py", line 9, in <module>
+OSError: [Errno 22] Invalid argument
